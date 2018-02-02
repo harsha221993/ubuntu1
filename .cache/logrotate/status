@@ -1,0 +1,15 @@
+logrotate state -- version 2
+"/home/harsha/.cache/upstart/logrotate.log" 2018-2-1-21:57:29
+"/home/harsha/.cache/upstart/unity7.log" 2018-2-2-11:2:25
+"/home/harsha/.cache/upstart/update-notifier-release.log" 2018-2-2-11:2:25
+"/home/harsha/.cache/upstart/unity-settings-daemon.log" 2018-2-2-11:2:25
+"/home/harsha/.cache/upstart/unity-panel-service.log" 2018-2-2-11:2:25
+"/home/harsha/.cache/upstart/dbus.log" 2018-2-2-11:2:25
+"/home/harsha/.cache/upstart/ssh-agent.log" 2018-2-2-11:2:25
+"/home/harsha/.cache/upstart/gpg-agent.log" 2018-2-2-11:2:25
+"/home/harsha/.cache/upstart/indicator-sound.log" 2018-2-2-11:2:25
+"/home/harsha/.cache/upstart/window-stack-bridge.log" 2018-2-2-11:2:25
+"/home/harsha/.cache/upstart/unity-panel-service-lockscreen.log" 2018-1-30-10:0:6
+"/home/harsha/.cache/upstart/hud.log" 2018-2-2-11:2:25
+"/home/harsha/.cache/upstart/upstart-event-bridge.log" 2018-2-2-11:2:25
+"/home/harsha/.cache/upstart/gnome-keyring-ssh.log" 2018-2-2-11:2:25

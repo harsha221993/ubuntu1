@@ -1,0 +1,4 @@
+FROM nginx:1.12.2 -alpine
+MAINTAINER harsha
+COPY /home/harsha/desktop/nginx.conf /etc/nginx/inginx.conf
+

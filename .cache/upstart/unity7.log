@@ -1,0 +1,3 @@
+WARN  2018-02-02 11:02:47 unity.dash.view DashView.cpp:1267 Search failed  ''=> Timed out waiting for scope proxy connection
+WARN  2018-02-02 11:02:47 unity.dash.scopeproxy ScopeProxy.cpp:516 Could not search '' on home.scope => Timed out waiting for scope proxy connection
+WARN  2018-02-02 11:02:55 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
